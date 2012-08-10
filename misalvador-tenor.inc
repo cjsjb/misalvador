@@ -23,7 +23,7 @@
 %% 10
 		d' 8. fs' gs' 8  |
 		a' 8 ( gs' 16 ) fs' 8 r16 fs' fs'  |
-		e' 8. b cs' 8  |
+		e' 8. b cs' 16 ( b )  |
 		a 4 r  |
 		r4 r8 cs'  |
 %% 15
@@ -97,7 +97,7 @@
 		"Me en" -- con -- tra -- ba per -- di -- do,
 		no sa -- bí a qué ha -- cer
 		en mi mun -- do som -- brí __ o,
-		ca -- re -- cí -- a de fe.
+		ca -- re -- cí -- a de __ fe.
 
 		Te -- ní -- a mu -- chas du -- das,
 		no po -- dí -- a más se -- guir.
