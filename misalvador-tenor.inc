@@ -37,7 +37,8 @@
 
 		\time 4/4
 		a' 1  |
-		R1*3  |
+		R1*2  |
+		r2 r4 e' 8 e'  |
 %% 25
 		\key e \major
 		e' 8 e' 16 e' 8 e' 16 e' 4 e' 8 e' e'  |
@@ -59,21 +60,22 @@
 		c' 4. fs' r8 r32 gs' 16.  |
 		a' 8 \times 2/3 { gs' fs' e' } cs' 4 r8 cs' 4  |
 %% 40
-		d' 4. fs' fs' 8 gs'  |
-		a' 4 ( gs' 8 ) fs' 4 r8 fs' 4  |
-		e' 4. b cs' 8 b  |
-		a 1  |
+		d' 4. d' d' 8 d'  |
+		cs' 4 ( cs' 8 ) cs' 4 r8 cs' 4  |
+		b 4. b cs' 8 b  |
+		cs' 1  |
 		R1  |
 %% 45
 		cs' 4. fs' cs' 8 cs'  |
 		c' 4. fs' r8 r32 gs' 16.  |
 		a' 8 \times 2/3 { gs' fs' e' } cs' 4 r8 cs' 4  |
-		d' 4. fs' fs' 8 gs'  |
-		a' 4 ( gs' 8 ) fs' 4 r8 fs' fs'  |
+		d' 4. d' d' 8 d'  |
+		cs' 4 ( cs' 8 ) cs' 4 r8 a' a'  |
 %% 50
-		e' 4. b cs' 8 b  |
-		a 1  |
-		R1*3  |
+		gs' 4. gs' a' 8 gs'  |
+		a' 1  |
+		R1*2  |
+		r2 r4 e' 8 e'  |
 %% 55
 		\key e \major
 		e' 8 e' 16 e' 8 e' 16 e' 4 e' 8 e' e'  |
@@ -84,8 +86,12 @@
 %% 60
 		e' 8 e' 16 e' 8 e' 16 e' 4 r8 e' e'  |
 		cs' 8 cs' 16 cs' 8 cs' 16 cs' 4 cs' 8 cs' cs'  |
-		b 4 b b b  |
-		R1*4  |
+		b 4 r r2  |
+		r4 cs' cs' cs'  |
+		c' 1 (  |
+%% 65
+		b 1 )  |
+		R1  |
 	}
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
 		"Me en" -- con -- tra -- ba per -- di -- do,
@@ -98,8 +104,7 @@
 		De ti me pla -- ti -- ca __ ban,
 		y lue -- go te sen -- tí.
 
-		%Es -- cu -- 
-		"...chas" -- te mis ple -- ga -- rias,
+		Es -- cu -- chas -- te mis ple -- ga -- rias,
 		a -- ten -- dis -- te mi cla -- mor,
 		me co -- bi -- jas con tus a -- las,
 		e -- res tú mi sal -- va -- dor.
@@ -118,15 +123,14 @@
 		Tú lle -- nas mi des -- ti __ no;
 		en mi vi -- "da es" -- ta -- bas ya.
 
-		%Es -- cu -- 
-		"...chas" -- te mis ple -- ga -- rias,
+		Es -- cu -- chas -- te mis ple -- ga -- rias,
 		a -- ten -- dis -- te mi cla -- mor,
 		me co -- bi -- jas con tus a -- las,
 		e -- res tú mi sal -- va -- dor.
 		Es -- cu -- chas -- te mis ple -- ga -- rias,
 		a -- ten -- dis -- te mi cla -- mor,
 		me co -- bi -- jas con tus a -- las,
-		e -- res tú mi sal -- va % -- dor,
-		%mi sal -- va -- dor.
+		e -- res tú...
+		mi sal -- va -- dor. __
 	}
 >>
