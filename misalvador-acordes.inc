@@ -2,16 +2,16 @@
 	\chords {
 		\set chordChanges = ##t
 		% intro
-		fs2:m fs2:m fs2:dim7 fs2:dim7
+		fs2:m fs2:m c2:dim7 c2:dim7
 		fs2:m fs2:m
 
 		% me encontraba...
-		fs2:m fs2:dim7
+		fs2:m c2:dim7
 		fs2:m b2:m
 		fs2:m e2
 		fs2:m fs2:m
 
-		fs2:m fs2:dim7
+		fs2:m c2:dim7
 		fs2:m b2:m
 		fs2:m e2
 
@@ -24,13 +24,13 @@
 		a1 e1 fs1:m fs1:m
 
 		% ahora que he vivido...
-		fs1:m fs1:dim7
+		fs1:m c1:dim7
 		fs1:m b1:m
 		fs1:m e1
 		fs1:m fs1:m
 
 		% eres el camino...
-		fs1:m fs1:dim7
+		fs1:m c1:dim7
 		fs1:m b1:m
 		fs1:m e1
 
