@@ -16,81 +16,81 @@
 
 		\key fs \minor
 		R2*5  |
-		r4 r8 cs' 16 cs'  |
-		cs' 8. fs' cs' 8  |
-		c' 8. fs' r16 fs' 32 gs'  |
-		a' 16 \times 2/3 { gs' fs' e' } cs' 8 r16 cs' cs'  |
+		r4 r8 cs 16 cs  |
+		cs 8. fs cs 8  |
+		c 8. fs r16 fs 32 gs  |
+		a 16 \times 2/3 { gs fs e } cs 8 r16 cs cs  |
 %% 10
-		d' 8. fs' gs' 8  |
-		a' 8 ( gs' 16 ) fs' 8 r16 fs' fs'  |
-		e' 8. b cs' 16 ( b )  |
-		a 4 r  |
-		r4 r8 cs'  |
+		d 8. fs gs 8  |
+		a 8 ( gs 16 ) fs 8 r16 fs fs  |
+		e 8. b, cs 16 ( b, )  |
+		a, 4 r  |
+		r4 r8 cs  |
 %% 15
-		cs' 8. fs' cs' 16 cs'  |
-		c' 8. fs' r16 fs' 32 gs'  |
-		a' 16 \times 2/3 { gs' fs' e' } cs' 8 r16 cs' 8  |
-		d' 8. d' d' 16 d'  |
-		cs' 8 ( cs' 16 ) cs' 8 r16 a' 8  |
+		cs 8. fs cs 16 cs  |
+		c 8. fs r16 fs 32 gs  |
+		a 16 \times 2/3 { gs fs e } cs 8 r16 cs 8  |
+		d 8. d d 16 d  |
+		cs 8 ( cs 16 ) cs 8 r16 a 8  |
 %% 20
-		gs' 8. gs' fs' 16 fs'  |
+		gs 8. gs fs 16 fs  |
 
 		\time 4/4
-		a' 1  |
+		a 1  |
 		R1*2  |
-		r2 r4 e' 8 e'  |
+		r2 r4 e 8 e  |
 %% 25
 		\key e \major
-		e' 8 e' 16 e' 8 e' 16 e' 4 e' 8 e' e'  |
-		ds' 8 ds' 16 ds' 8 ds' 16 ds' 4 r8 ds' ds'  |
-		cs' 8 cs' 16 cs' 8 cs' 16 cs' 4 cs' 8 cs' cs'  |
-		ds' 8 ds' 16 ds' 8 ds' 16 ds' 4 r8 ds' ds'  |
-		e' 8 e' 16 e' 8 e' 16 e' 4 e' 8 e' e'  |
+		e 8 e 16 e 8 e 16 e 4 e 8 e e  |
+		ds 8 ds 16 ds 8 ds 16 ds 4 r8 ds ds  |
+		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
+		ds 8 ds 16 ds 8 ds 16 ds 4 r8 ds ds  |
+		e 8 e 16 e 8 e 16 e 4 e 8 e e  |
 %% 30
-		e' 8 e' 16 e' 8 e' 16 e' 4 r8 e' e'  |
-		cs' 8 cs' 16 cs' 8 cs' 16 cs' 4 cs' 8 cs' cs'  |
-		b 4 b b b  |
-		cs' 1  |
+		e 8 e 16 e 8 e 16 e 4 r8 e e  |
+		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
+		b, 4 b, b, b,  |
+		cs 1  |
 		R1  |
 %% 35
 		\key fs \minor
 		R1  |
-		r2 r4 cs'  |
-		cs' 4. fs' cs' 8 cs'  |
-		c' 4. fs' r8 r32 gs' 16.  |
-		a' 8 \times 2/3 { gs' fs' e' } cs' 4 r8 cs' 4  |
+		r2 r4 cs  |
+		cs 4. fs cs 8 cs  |
+		c 4. fs r8 r32 gs 16.  |
+		a 8 \times 2/3 { gs fs e } cs 4 r8 cs 4  |
 %% 40
-		d' 4. d' d' 8 d'  |
-		cs' 4 ( cs' 8 ) cs' 4 r8 cs' 4  |
-		b 4. b cs' 8 b  |
-		cs' 1  |
+		d 4. d d 8 d  |
+		cs 4 ( cs 8 ) cs 4 r8 cs 4  |
+		b, 4. b, cs 8 b,  |
+		cs 1  |
 		R1  |
 %% 45
-		cs' 4. fs' cs' 8 cs'  |
-		c' 4. fs' r8 r32 gs' 16.  |
-		a' 8 \times 2/3 { gs' fs' e' } cs' 4 r8 cs' 4  |
-		d' 4. d' d' 8 d'  |
-		cs' 4 ( cs' 8 ) cs' 4 r8 a' a'  |
+		cs 4. fs cs 8 cs  |
+		c 4. fs r8 r32 gs 16.  |
+		a 8 \times 2/3 { gs fs e } cs 4 r8 cs 4  |
+		d 4. d d 8 d  |
+		cs 4 ( cs 8 ) cs 4 r8 a a  |
 %% 50
-		gs' 4. gs' a' 8 gs'  |
-		a' 1  |
+		gs 4. gs a 8 gs  |
+		a 1  |
 		R1*2  |
-		r2 r4 e' 8 e'  |
+		r2 r4 e 8 e  |
 %% 55
 		\key e \major
-		e' 8 e' 16 e' 8 e' 16 e' 4 e' 8 e' e'  |
-		ds' 8 ds' 16 ds' 8 ds' 16 ds' 4 r8 ds' ds'  |
-		cs' 8 cs' 16 cs' 8 cs' 16 cs' 4 cs' 8 cs' cs'  |
-		ds' 8 ds' 16 ds' 8 ds' 16 ds' 4 r8 ds' ds'  |
-		e' 8 e' 16 e' 8 e' 16 e' 4 e' 8 e' e'  |
+		e 8 e 16 e 8 e 16 e 4 e 8 e e  |
+		ds 8 ds 16 ds 8 ds 16 ds 4 r8 ds ds  |
+		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
+		ds 8 ds 16 ds 8 ds 16 ds 4 r8 ds ds  |
+		e 8 e 16 e 8 e 16 e 4 e 8 e e  |
 %% 60
-		e' 8 e' 16 e' 8 e' 16 e' 4 r8 e' e'  |
-		cs' 8 cs' 16 cs' 8 cs' 16 cs' 4 cs' 8 cs' cs'  |
-		b 4 b b b  |
-		cs' 1  |
-		r4 e' e' e'  |
+		e 8 e 16 e 8 e 16 e 4 r8 e e  |
+		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
+		b, 4 b, b, b,  |
+		cs 1  |
+		r4 e e e  |
 %% 65
-		e' 1  |
+		e 1  |
 		R1  |
 	}
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {

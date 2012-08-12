@@ -16,80 +16,81 @@
 
 		\key fs \minor
 		R2*5  |
-		r4 r8 cs'' 16 cs''  |
-		cs'' 8. fs'' cs'' 8  |
-		c'' 8. fs'' r16 fs'' 32 gs''  |
-		a'' 16 \times 2/3 { gs'' fs'' e'' } cs'' 8 r16 cs'' cs''  |
+		r4 r8 cs' 16 cs'  |
+		cs' 8. fs' cs' 8  |
+		c' 8. fs' r16 fs' 32 gs'  |
+		a' 16 \times 2/3 { gs' fs' e' } cs' 8 r16 cs' cs'  |
 %% 10
-		d'' 8. fs'' gs'' 8  |
-		a'' 8 ( gs'' 16 ) fs'' 8 r16 fs'' fs''  |
-		e'' 8. b' cs'' 16 ( b' )  |
-		a' 4 r  |
-		fs' 2 ~  |
+		d' 8. fs' gs' 8  |
+		a' 8 ( gs' 16 ) fs' 8 r16 fs' fs'  |
+		e' 8. b cs' 16 ( b )  |
+		a 4 r  |
+		fs 2 ~  |
 %% 15
-		fs' 2  |
-		fs' 16 ( gs' a' b' c'' 4  |
-		cs'' 2 )  |
-		d'' 2 (  |
-		cs'' 8 a' 16 fs' 8. fs' 8 )  |
+		fs 2  |
+		fs 16 ( gs a b c' 4  |
+		cs' 2 )  |
+		d' 2 (  |
+		cs' 8 a 16 fs 8. fs 8 )  |
 %% 20
-		gs' 4. ( a' 8  |
+		gs 4. ( a 8  |
+
 		\time 4/4
-		fs' 2 ) r  |
+		fs 2 ) r  |
 		R1*2  |
-		r2 r4 e'' 8 fs''  |
+		r2 r4 e' 8 fs'  |
 %% 25
 		\key e \major
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 gs'' 4 r8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
-		fs'' 8 e'' 16 e'' 8 ds'' 16 ds'' 4 r8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		fs' 8 e' 16 e' 8 ds' 16 ds' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
 %% 30
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 gs'' 4 r8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
-		fs'' 4 e'' e'' e''  |
-		e'' 1  |
+		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		fs' 4 e' e' e'  |
+		e' 1  |
 		R1  |
 %% 35
 		\key fs \minor
 		R1  |
-		r2 r4 cs''  |
-		cs'' 4. fs'' cs'' 8 cs''  |
-		c'' 4. fs'' r8 r32 gs'' 16.  |
-		a'' 8 \times 2/3 { gs'' fs'' e'' } cs'' 4 r8 cs'' 4  |
+		r2 r4 cs'  |
+		cs' 4. fs' cs' 8 cs'  |
+		c' 4. fs' r8 r32 gs' 16.  |
+		a' 8 \times 2/3 { gs' fs' e' } cs' 4 r8 cs' 4  |
 %% 40
-		d'' 4. fs'' fs'' 8 gs''  |
-		a'' 4 ( gs'' 8 ) fs'' 4 r8 fs'' 4  |
-		e'' 4. b' cs'' 8 b'  |
-		a' 1  |
+		d' 4. fs' fs' 8 gs'  |
+		a' 4 ( gs' 8 ) fs' 4 r8 fs' 4  |
+		e' 4. b cs' 8 b  |
+		a 1  |
 		R1  |
 %% 45
-		cs'' 4. fs'' cs'' 8 cs''  |
-		c'' 4. fs'' r8 r32 gs'' 16.  |
-		a'' 8 \times 2/3 { gs'' fs'' e'' } cs'' 4 r8 cs'' 4  |
-		d'' 4. fs'' fs'' 8 gs''  |
-		a'' 4 ( gs'' 8 ) fs'' 4 r8 fs'' fs''  |
+		cs' 4. fs' cs' 8 cs'  |
+		c' 4. fs' r8 r32 gs' 16.  |
+		a' 8 \times 2/3 { gs' fs' e' } cs' 4 r8 cs' 4  |
+		d' 4. fs' fs' 8 gs'  |
+		a' 4 ( gs' 8 ) fs' 4 r8 fs' fs'  |
 %% 50
-		e'' 4. b' cs'' 8 b'  |
-		a' 1  |
+		e' 4. b cs' 8 b  |
+		a 1  |
 		R1*2  |
-		r2 r4 e'' 8 fs''  |
+		r2 r4 e' 8 fs'  |
 %% 55
 		\key e \major
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 gs'' 4 r8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
-		fs'' 8 e'' 16 e'' 8 ds'' 16 ds'' 4 r8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		fs' 8 e' 16 e' 8 ds' 16 ds' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
 %% 60
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 gs'' 4 r8 e'' fs''  |
-		a'' 8 gs'' 16 gs'' 8 fs'' 16 fs'' 4 e'' 8 e'' fs''  |
-		fs'' 4 r r2  |
-		r4 cs'' cs'' cs''  |
-		c'' 1 (  |
+		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		fs' 4 r r2  |
+		r4 cs' cs' cs'  |
+		c' 1 (  |
 %% 65
-		b' 1 )  |
+		b 1 )  |
 		R1  |
 	} % Voice
 	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
