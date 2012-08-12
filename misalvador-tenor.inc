@@ -86,11 +86,11 @@
 %% 60
 		e' 8 e' 16 e' 8 e' 16 e' 4 r8 e' e'  |
 		cs' 8 cs' 16 cs' 8 cs' 16 cs' 4 cs' 8 cs' cs'  |
-		b 4 r r2  |
-		r4 cs' cs' cs'  |
-		c' 1 (  |
+		b 4 b b b  |
+		cs' 1  |
+		r4 e' e' e'  |
 %% 65
-		b 1 )  |
+		e' 1  |
 		R1  |
 	}
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
@@ -130,7 +130,7 @@
 		Es -- cu -- chas -- te mis ple -- ga -- rias,
 		a -- ten -- dis -- te mi cla -- mor,
 		me co -- bi -- jas con tus a -- las,
-		e -- res tú...
-		mi sal -- va -- dor. __
+		e -- res tú mi sal -- va -- dor,
+		mi sal -- va -- dor.
 	}
 >>
