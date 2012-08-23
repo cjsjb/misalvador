@@ -169,6 +169,6 @@
 		a -- ten -- dis -- te mi cla -- mor,
 		me co -- bi -- jas con tus a -- las,
 		e -- res "tú..."
-		mi sal -- va -- dor.
+		mi sal -- va -- dor. __
 	}
 >>
