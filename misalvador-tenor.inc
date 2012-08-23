@@ -88,8 +88,32 @@
 		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
 		b, 4 b, b, b,  |
 		cs 1  |
-		r4 e e e  |
+		e 2 gs 8 fs e gs ~  |
 %% 65
+		gs 4 gs gs 8 fs e a ~  |
+		a 4. r8 a gs fs a ~  |
+		a 4 gs fs e  |
+		e 2 gs 8 fs e gs ~  |
+		gs 4. r8 gs fs e fs ~  |
+%% 70
+		fs 4. r8 a gs fs fs ~  |
+		fs 2. r4  |
+		b 1  |
+		c' 1  |
+		b 2 ~ b 8 r e e  |
+%% 75
+		e 8 e 16 e 8 e 16 e 4 e 8 e e  |
+		ds 8 ds 16 ds 8 ds 16 ds 4 r8 ds ds  |
+		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
+		ds 8 ds 16 ds 8 ds 16 ds 4 r8 ds ds  |
+		e 8 e 16 e 8 e 16 e 4 e 8 e e  |
+%% 80
+		e 8 e 16 e 8 e 16 e 4 r8 e e  |
+		cs 8 cs 16 cs 8 cs 16 cs 4 cs 8 cs cs  |
+		b, 4 b, b, b,  |
+		cs 1  |
+		r4 e e e  |
+%% 85
 		e 1  |
 		R1  |
 	}
@@ -122,6 +146,22 @@
 		la vi -- "da y" la ver -- dad.
 		Tú lle -- nas mi des -- ti __ no;
 		en mi vi -- "da es" -- ta -- bas ya.
+
+		Es -- cu -- chas -- te mis ple -- ga -- rias,
+		a -- ten -- dis -- te mi cla -- mor,
+		me co -- bi -- jas con tus a -- las,
+		e -- res tú mi sal -- va -- dor.
+		Es -- cu -- chas -- te mis ple -- ga -- rias,
+		a -- ten -- dis -- te mi cla -- mor,
+		me co -- bi -- jas con tus a -- las,
+		e -- res tú mi sal -- va -- dor.
+
+		Hoy pue -- do sen -- tir __
+		que vi -- ves en mí, __
+		Dios to -- do -- po __ de -- ro -- so.
+		Hoy pue -- do re -- ír, __
+		vuel -- "vo a" -- vi -- vir, __
+		has si -- do mi __ sal -- va -- dor. __
 
 		Es -- cu -- chas -- te mis ple -- ga -- rias,
 		a -- ten -- dis -- te mi cla -- mor,

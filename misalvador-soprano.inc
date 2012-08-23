@@ -86,9 +86,33 @@
 		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
 		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
 		a' 4 gs' gs' fs'  |
+		e' 1  |
+		e' 2 gs' 8 fs' e' gs' ~  |
+%% 65
+		gs' 4 gs' gs' 8 fs' e' a' ~  |
+		a' 4. r8 a' gs' fs' a' ~  |
+		a' 4 gs' fs' e'  |
+		e' 2 gs' 8 fs' e' gs' ~  |
+		gs' 4. r8 gs' fs' e' fs' ~  |
+%% 70
+		fs' 4. r8 a' gs' fs' fs' ~  |
+		fs' 2. r4  |
+		b' 1  |
+		c'' 1  |
+		b' 2 ~ b' 8 r e' fs'  |
+%% 75
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		cs'' 8 b' 16 b' 8 a' 16 b' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+%% 80
+		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
+		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
+		a' 4 gs' gs' fs'  |
 		a' 1  |
 		r4 a' a' a'  |
-%% 65
+%% 85
 		gs' 1  |
 		R1  |
 	} % Voice
@@ -121,6 +145,22 @@
 		la vi -- "da y" la ver -- dad.
 		Tú lle -- nas mi des -- ti __ no;
 		en mi vi -- "da es" -- ta -- bas ya.
+
+		Es -- cu -- chas -- te mis ple -- ga -- rias,
+		a -- ten -- dis -- te mi cla -- mor,
+		me co -- bi -- jas con tus a -- las,
+		e -- res tú mi sal -- va -- dor.
+		Es -- cu -- chas -- te mis ple -- ga -- rias,
+		a -- ten -- dis -- te mi cla -- mor,
+		me co -- bi -- jas con tus a -- las,
+		e -- res tú mi sal -- va -- dor.
+
+		Hoy pue -- do sen -- tir __
+		que vi -- ves en mí, __
+		Dios to -- do -- po __ de -- ro -- so.
+		Hoy pue -- do re -- ír, __
+		vuel -- "vo a" -- vi -- vir, __
+		has si -- do mi __ sal -- va -- dor. __
 
 		Es -- cu -- chas -- te mis ple -- ga -- rias,
 		a -- ten -- dis -- te mi cla -- mor,
