@@ -3,6 +3,11 @@
 		\set chordChanges = ##t
 		% intro
 		fs2:m fs2:m c2:dim7 c2:dim7
+		fs2:m
+
+		fs2:m c2:dim7
+		fs2:m b2:m
+		fs2:m e2
 		fs2:m fs2:m
 
 		% me encontraba...

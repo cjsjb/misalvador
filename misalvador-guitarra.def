@@ -6,21 +6,29 @@ misalvadorguitarraintro = {
 %% 5
 		fs, 16 a cs' a fs' cs' a r  |
 		fs, 16 a cs' a fs' cs' a r  |
-		fs, 16 a cs' a fs' cs' a r  |
 		ds 16 a c' a fs' c' a r  |
 		fs, 16 a cs' a fs' cs' a r  |
+		b, 16 b\3 d' fs fs' d' b\3 r  |
 %% 10
+		fs, 16 a cs' a fs' cs' a r  |
+		e, 16 b, e gs b e' b gs  |
+		fs, 16 a cs' a fs' cs' a r  |
+		fs, 16 a cs' a fs' cs' a r  |
+		fs, 16 a cs' a fs' cs' a r  |
+%% 15
+		ds 16 a c' a fs' c' a r  |
+		fs, 16 a cs' a fs' cs' a r  |
 		b, 16 b\3 d' fs fs' d' b\3 r  |
 		fs, 16 a cs' a fs' cs' a r  |
 		e, 16 b, e gs b e' b gs  |
+%% 20
 		fs, 16 a cs' a fs' cs' a fs,  |
 		fs, 16 a cs' a fs' cs' a fs,  |
-%% 15
 		fs, 16 a cs' a fs' cs' a r  |
 		ds 16 a c' a fs' c' a r  |
 		fs, 16 a cs' a fs' cs' a r  |
+%% 25
 		b, 16 b\3 d' fs fs' d' b\3 r  |
 		fs, 16 a cs' a fs' cs' a r  |
-%% 20
 		e, 16 b, e gs b e' b gs  |
 }

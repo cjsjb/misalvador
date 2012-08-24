@@ -15,7 +15,7 @@
 		\clef "treble_8"
 
 		\key fs \minor
-		R2*5  |
+		R2*12  |
 		r4 r8 cs 16 cs  |
 		cs 8. fs cs 8  |
 		c 8. fs r16 fs 32 gs  |
