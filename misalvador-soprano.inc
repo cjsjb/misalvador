@@ -40,6 +40,7 @@
 		R1*2  |
 		r2 r4 e' 8 fs'  |
 %% 25
+		\key e \major
 		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
 		a' 8 gs' 16 gs' 8 fs' 16 gs' 4 r8 e' fs'  |
 		a' 8 gs' 16 gs' 8 fs' 16 fs' 4 e' 8 e' fs'  |
