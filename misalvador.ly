@@ -37,8 +37,8 @@ globalTempo = {
 			\include "misalvador-tenor.inc"
 		>>
 		\include "misalvador-guitarra.inc"
-		%\include "misalvador-cello.inc"
-		%\include "misalvador-violin.inc"
+		\include "misalvador-cello.inc"
+		\include "misalvador-violin.inc"
 	>>
 	\layout {
 		\context {
