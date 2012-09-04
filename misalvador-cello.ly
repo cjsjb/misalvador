@@ -21,8 +21,8 @@ global = {
 	\time 4/4 \skip 1*66
 }
 globalTempo = {
-	\tempo 4 = 55  \skip 2*27
-	\tempo 4 = 115 \skip 1*66
+	\tempo 4 = 56  \skip 2*27
+	\tempo 4 = 116 \skip 1*66
 }
 
 \include "misalvador-guitarra.def"
