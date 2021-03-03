@@ -116,6 +116,7 @@
 %% 85
 		gs' 1  |
 		R1  |
+		\bar "|."
 	} % Voice
 	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
 		"Me en" -- con -- tra -- ba per -- di -- do,

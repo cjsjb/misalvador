@@ -116,6 +116,7 @@
 %% 85
 		e 1  |
 		R1  |
+		\bar "|."
 	}
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
 		"Me en" -- con -- tra -- ba per -- di -- do,

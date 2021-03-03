@@ -116,6 +116,7 @@
 %% 85
 		b 1 )  |
 		R1  |
+		\bar "|."
 	} % Voice
 	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
 		"Me en" -- con -- tra -- ba per -- di -- do,
