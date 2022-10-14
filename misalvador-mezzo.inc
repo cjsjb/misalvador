@@ -118,7 +118,7 @@
 		R1  |
 		\bar "|."
 	} % Voice
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		"Me en" -- con -- tra -- ba per -- di -- do,
 		no sa -- bí a qué ha -- cer
 		en mi mun -- do som -- brí __ o,

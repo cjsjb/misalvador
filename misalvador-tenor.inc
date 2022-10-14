@@ -118,7 +118,7 @@
 		R1  |
 		\bar "|."
 	}
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		"Me en" -- con -- tra -- ba per -- di -- do,
 		no sa -- bí a qué ha -- cer
 		en mi mun -- do som -- brí __ o,
